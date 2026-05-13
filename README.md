@@ -1,1 +1,1 @@
-# Auditor a ASG y Refactorización Sostenible - López Alonso Marco
+# Auditor a ASG y Refactorización Sostenible por López Alonso Marco
