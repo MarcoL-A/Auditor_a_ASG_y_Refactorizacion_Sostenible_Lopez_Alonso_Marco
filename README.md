@@ -25,3 +25,14 @@ Sí, esta web sufre una 'inflación de software' de manual. A ver, al final es u
 Esta web suspende en accesibilidad porque tiene barreras graves que dejan fuera a muchos usuarios. El primer gran problema es el contraste de los colores. En varias partes de la página, como en los menús o en algunos botones, se usa texto claro sobre fondos que también son claros o sobre fotografías. Esto hace que sea un dolor de cabeza leer la información para personas con baja visión, daltonismo o cualquiera que intente mirar la pantalla en la calle con el reflejo del sol.
 
 El otro fallo crítico está en las imágenes y en cómo está organizada la página por dentro. La mayoría de las fotos de los platos y de la terraza no tienen texto alternativo, lo que significa que los lectores de pantalla que usan las personas invidentes no pueden describirles lo que hay ahí. Además, los títulos y encabezados internos están desordenados y se usan solo por estética, rompiendo la estructura lógica. Al final, alguien que dependa del teclado o de un asistente de voz para navegar se va a perder por completo en la web.
+
+
+
+## Dimensión de Gobernanza y Ética:
+Ahora voy a revisar las cookies y la parte de contacto de la web.
+Al entrar en la web nos va a saltar en la esquina derecha de la pantalla el siguiente mensaje:
+<img width="535" height="293" alt="image" src="https://github.com/user-attachments/assets/eb22930b-f3ea-4244-9ad0-b2a2821a2077" />
+Aquí podemos ver que las cookies no van con trampa, no te obligan al 100% a aceptarlas para poder ver o entrar en la web, permitiendonos así llegar a rechazarlas.
+Y ahora vamos a ver si la web nos pide algún tipo de información o registro para poder contactar con esta:
+<img width="582" height="591" alt="image" src="https://github.com/user-attachments/assets/b22a232a-2fc0-44d4-8c52-30ae3ba60635" />
+Por lo que podemos ver en estas dos imágenes, la web nos permite entrar y contactar sin la necesidad de que demos ni un dato personal, cosa que muchos usuarios agradecen, ya que prefieren no dar sus datos personales solo para ver una web o contactar con ellos.
