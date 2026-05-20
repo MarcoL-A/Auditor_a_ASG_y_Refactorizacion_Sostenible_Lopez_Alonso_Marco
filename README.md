@@ -1,5 +1,5 @@
 # Auditor a ASG y Refactorización Sostenible por López Alonso Marco
-## Inventario y Dimensión Ambiental (A):
+## Fase 1: Inventario y Dimensión Ambiental (A):
 ### 1. Medición inicial: 
 Para esta actividad he elegido la página web de una cafetería/bar que hay al lado de donde estudio, llamada Cafetería Bar Marbella.
 Para comenzar voy a utilizar las herramientas gratuitas como Website Carbon Calculator o Lighthouse (pestaña de rendimiento en Chrome/Edge) para obtener la huella de carbono estimada por visita.
@@ -20,7 +20,7 @@ Sí, esta web sufre una 'inflación de software' de manual. A ver, al final es u
 
 
 
-## Dimensión Social y Equidad:
+## Fase 2: Dimensión Social y Equidad:
 ### Contraste de color insuficiente e identificación de barreras:
 Esta web suspende en accesibilidad porque tiene barreras graves que dejan fuera a muchos usuarios. El primer gran problema es el contraste de los colores. En varias partes de la página, como en los menús o en algunos botones, se usa texto claro sobre fondos que también son claros o sobre fotografías. Esto hace que sea un dolor de cabeza leer la información para personas con baja visión, daltonismo o cualquiera que intente mirar la pantalla en la calle con el reflejo del sol.
 
@@ -28,7 +28,7 @@ El otro fallo crítico está en las imágenes y en cómo está organizada la pá
 
 
 
-## Dimensión de Gobernanza y Ética:
+## Fase 3: Dimensión de Gobernanza y Ética:
 Ahora voy a revisar las cookies y la parte de contacto de la web.
 Al entrar en la web nos va a saltar en la esquina derecha de la pantalla el siguiente mensaje:
 
