@@ -31,7 +31,9 @@ El otro fallo crítico está en las imágenes y en cómo está organizada la pá
 ## Dimensión de Gobernanza y Ética:
 Ahora voy a revisar las cookies y la parte de contacto de la web.
 Al entrar en la web nos va a saltar en la esquina derecha de la pantalla el siguiente mensaje:
+
 <img width="535" height="293" alt="image" src="https://github.com/user-attachments/assets/eb22930b-f3ea-4244-9ad0-b2a2821a2077" />
+
 Aquí podemos ver que las cookies no van con trampa, no te obligan al 100% a aceptarlas para poder ver o entrar en la web, permitiendonos así llegar a rechazarlas.
 Y ahora vamos a ver si la web nos pide algún tipo de información o registro para poder contactar con esta:
 <img width="582" height="591" alt="image" src="https://github.com/user-attachments/assets/b22a232a-2fc0-44d4-8c52-30ae3ba60635" />
