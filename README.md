@@ -39,3 +39,6 @@ Y ahora vamos a ver si la web nos pide algún tipo de información o registro pa
 <img width="582" height="591" alt="image" src="https://github.com/user-attachments/assets/b22a232a-2fc0-44d4-8c52-30ae3ba60635" />
 
 Por lo que podemos ver en estas dos imágenes, la web nos permite entrar y contactar sin la necesidad de que demos ni un dato personal, cosa que muchos usuarios agradecen, ya que prefieren no dar sus datos personales solo para ver una web o contactar con ellos.
+
+
+## Fase 4: Propuesta de Refactorización:
